@@ -2,4 +2,5 @@ This is Satheesh Chintala
 
 git add . => add all files to the version control
 git status => 
-git log => 
+git log => commit logs
+git revert <commit-id>
