@@ -1,0 +1,3 @@
+This is Satheesh Chintala
+
+git add . => add all files to the version control
